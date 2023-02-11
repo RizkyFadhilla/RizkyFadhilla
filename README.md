@@ -10,7 +10,7 @@ Rizky Fadhilla Yanuardi</a></h1>
   <br>
   ![Gmail](https://img.shields.io/badge/Gmail-rizkyfadhilla123%40gmail.com-red)
   <br>
-  <a href="www.linkedin.com/in/rizky-fadhilla-yanuardi-46740b1b9" target="blank">![Linkeind](https://img.shields.io/badge/LinkeInd-www.linkedin.com%2Fin%2Frizky--fadhilla--yanuardi--46740b1b9-blue)</a>
+  <a href="https://www.linkedin.com/in/rizky-fadhilla-yanuardi-46740b1b9/" target="blank">![Linkeind](https://img.shields.io/badge/LinkeInd-www.linkedin.com%2Fin%2Frizky--fadhilla--yanuardi--46740b1b9-blue)</a>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
