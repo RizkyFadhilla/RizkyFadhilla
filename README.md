@@ -23,22 +23,21 @@ Rizky Fadhilla Yanuardi</a></h1>
 
 - **Back-End Development**:
 
-   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2020%2F02%2FEkran-Resmi-2019-11-18-18.08.13.png&f=1&nofb=1&ipt=03bc5b1e623795f6878f8c83e3fa6faea79048514eb13bd65dd068322bb04fbf&ipo=images"  width="150" height="100"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Ahl24GrglQHwFcp5-_B36QHaEo%26pid%3DApi&f=1&ipt=9c7aa2af40156eacaf1942cc69a1eeb16c86e8f7b11ce9d3385437d750b86442&ipo=images"  width="150" height="100"/>
    <br>
-    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.appcoda.com%2Fwp-content%2Fuploads%2F2015%2F04%2Freact-native-1024x631.png&f=1&nofb=1&ipt=913f3d1334bfb563e108e42cbca068d7f70898bd5d76a207a933ac9fb5ce0050&ipo=images"  width="150" height="100"/>
-   <br>
-   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F452-4529223_vue-js-logo-png-transparent-png.png&f=1&nofb=1&ipt=6d83957406418a7f848609e4b6a92495c3c40ee82bb055835b9807a6067cb04c&ipo=images"  width="150" height="100"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fludovicwyffels.dev%2Fstatic%2F335caa592debcad471a1ec9936833b1b%2F5707d%2Fsequelize.png&f=1&nofb=1&ipt=682c77170d7155466e67b42fa0d090d49fb3701e7130ba8ff78dc3086f15d35f&ipo=images"  width="150" height="100"/>
    <br>
 
 <br>
 
 - **Front-End Development**:
   <br>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkrify.co%2Fwp-content%2Fuploads%2F2019%2F06%2FReactJS.jpg&f=1&nofb=1&ipt=af8b8b9e0da68e8f0f85e1fb31a4bdce4edad225e461165775e8c8e6c7ba7ea2&ipo=images"  width="150" height="100"/>
-  <br>
-  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.appcoda.com%2Fwp-content%2Fuploads%2F2015%2F04%2Freact-native-1024x631.png&f=1&nofb=1&ipt=913f3d1334bfb563e108e42cbca068d7f70898bd5d76a207a933ac9fb5ce0050&ipo=images"  width="150" height="100"/>
-  <br>
-
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2020%2F02%2FEkran-Resmi-2019-11-18-18.08.13.png&f=1&nofb=1&ipt=03bc5b1e623795f6878f8c83e3fa6faea79048514eb13bd65dd068322bb04fbf&ipo=images"  width="150" height="100"/>
+   <br>
+    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.appcoda.com%2Fwp-content%2Fuploads%2F2015%2F04%2Freact-native-1024x631.png&f=1&nofb=1&ipt=913f3d1334bfb563e108e42cbca068d7f70898bd5d76a207a933ac9fb5ce0050&ipo=images"  width="150" height="100"/>
+   <br>
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F452-4529223_vue-js-logo-png-transparent-png.png&f=1&nofb=1&ipt=6d83957406418a7f848609e4b6a92495c3c40ee82bb055835b9807a6067cb04c&ipo=images"  width="150" height="100"/>
+   <br>
 <br>
 
 - **Database**:
