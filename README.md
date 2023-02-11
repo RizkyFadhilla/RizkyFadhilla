@@ -6,6 +6,7 @@ Rizky Fadhilla Yanuardi</a></h1>
 - I’m currently open for a new job opportunity for backend or fullstack developer, this is <a href="https://drive.google.com/file/d/19-NNt6XqEXAu21EWTbL3qryhKo8PFLza/view?usp=share_link" target="blank"> my resume</a>
 - I’m currently learning Javascript
 - I'm graduate from Hacktiv8 with score 89,70% / 100% here <a href="https://drive.google.com/file/d/1hS0ZqYoQtRIX2P9FonD2LdLJogqN0gMl/view?usp=sharing" target="blank"> my sertificate</a> and <a href="https://drive.google.com/file/d/1foXKZcPKkVRPayDyg4hinif2vD1WlCO2/view?usp=share_link" target="blank"> my transcipt</a>
+- I'm try to make a personal website : <a href="https://rizky-fadhilla-yanuardi.web.app/" target="blank"> click here</a>
 - you can contact me via :
   <br>
   ![Gmail](https://img.shields.io/badge/Gmail-rizkyfadhilla123%40gmail.com-red)
