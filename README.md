@@ -18,11 +18,12 @@ Rizky Fadhilla Yanuardi</a></h1>
 <p align="center">
 
 - **Languages**:
+ <br> 
       ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   <br>   
 
 - **Back-End Development**:
-
+ <br> 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Ahl24GrglQHwFcp5-_B36QHaEo%26pid%3DApi&f=1&ipt=9c7aa2af40156eacaf1942cc69a1eeb16c86e8f7b11ce9d3385437d750b86442&ipo=images"  width="150" height="100"/>
    <br>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fludovicwyffels.dev%2Fstatic%2F335caa592debcad471a1ec9936833b1b%2F5707d%2Fsequelize.png&f=1&nofb=1&ipt=682c77170d7155466e67b42fa0d090d49fb3701e7130ba8ff78dc3086f15d35f&ipo=images"  width="150" height="100"/>
